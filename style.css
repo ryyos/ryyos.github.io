@@ -1,5 +1,5 @@
 body {
-    background-color: #333333;
+    background-color: rgb(212, 212, 212);
 }
 
 ul {
@@ -61,7 +61,6 @@ td {
 }
 
 .container {
-    background-color: rgb(212, 212, 212);
     padding: 150px;
 }
 
