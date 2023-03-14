@@ -1,0 +1,75 @@
+ul {
+    list-style-type: none;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+
+.teks {
+    padding-top: -20px;
+    text-align: center;
+    font-size: 28px;
+    font-family: verdana;
+}
+
+.teks2 {
+    text-align: center;
+    font-size: 20px;
+    font-family: verdana;
+    padding-bottom: 15px;
+}
+
+.teks3 {
+    text-align: center;
+    font-size: 20px;
+    font-family: verdana;
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+
+td {
+    border: 3px solid #0a0808;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 200px;
+    font-size: 27px;
+    font-family: verdana;
+}
+
+.container {
+    background-color: rgb(212, 212, 212);
+    padding: 150px;
+}
+
+th {
+    border: 3px solid #0a0808;
+    text-align: center;
+    padding: 10px;
+    font-size: 27px;
+    font-family: verdana;
+}
+
+.all {
+    size: 100%;
+    font-size: 100%;
+}
